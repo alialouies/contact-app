@@ -4,7 +4,7 @@ const name = "Aliki";
 const avatar = "https://i.stack.imgur.com/frlIf.png";
 const status = "online";
 
-function Contact(props) {
+function Contact() {
   return (
     <div className="Contact">
       <img
